@@ -1,0 +1,27 @@
+.playerInfo {
+	width: 40%;
+	background-color: rgb(240, 255, 0);
+	height: 60px;
+	border-color: #000000;
+}
+
+.playerInfo .speed {
+	width: 50%;
+}
+
+.playerInfo .speed .progress {
+	width: 80%;
+}
+
+.playerInfo .speed .progress .progress-bar {
+	height: 20px;
+	background-color: #553903;
+}
+
+.playerInfo .highScore {
+	width: 40%;
+	padding: 5px;
+	border: 1px solid #000000;
+	border-radius: 6px;
+	margin-top: -15px;
+}
